@@ -16,7 +16,7 @@ public class Termometro {
 
     } 
 
- 
+ asdsadasd
 
     public void fijarTemperatura(float temperatura) throws TemperaturaFueraRangoException { 
 
